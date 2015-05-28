@@ -1,0 +1,3 @@
+# PicDump
+Photo sorting program
+
